@@ -61,10 +61,10 @@ async def start_(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
+                        "💝 OWNER 💝", url="https://t.me/Rupayan_Iz_Here")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/levina-lab/VeezMusic"
+                        "💖 About Owner 💖", url="https://t.me/itz_Official_Roy"
                     )
                 ]
             ]
@@ -101,7 +101,7 @@ async def help(client: Client, message: Message):
 
 **Please press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by {BOT_NAME} A.I""",
+⚡ __Powered by {BOT_NAME} [RUPAYAN🤠](https://t.me/Rupayan_Iz_Here)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
