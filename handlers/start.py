@@ -101,7 +101,7 @@ async def help(client: Client, message: Message):
 
 **Please press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by {BOT_NAME} RR""",
+⚡ __Powered by {BOT_NAME} A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
