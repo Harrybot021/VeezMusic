@@ -61,10 +61,10 @@ async def start_(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "💝 OWNER 💝", url="https://t.me/Rupayan_Iz_Here")
+                        "💝 Owner", url="https://t.me/Rupayan_Iz_Here")
                 ],[
                     InlineKeyboardButton(
-                        "💖 About Owner 💖", url="https://t.me/itz_Official_Roy"
+                        "🧪 Source Code 🧪", url="https://github.com/Harrybot021/VeezMusic"
                     )
                 ]
             ]
