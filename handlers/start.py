@@ -101,7 +101,7 @@ async def help(client: Client, message: Message):
 
 **Please press the button below to read the explanation and see the list of available commands !**
 
-⚡ __Powered by {BOT_NAME} [RUPAYAN🤠](https://t.me/Rupayan_Iz_Here)""",
+⚡ __Powered by {BOT_NAME} RR""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
